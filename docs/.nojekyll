@@ -1,0 +1,3 @@
+# Disable Jekyll
+
+The presence of this file prevents GitHub running a Jekyll automated build prior to publishing this branch
